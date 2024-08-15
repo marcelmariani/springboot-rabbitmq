@@ -1,0 +1,5 @@
+package com.marcelmariani.entity;
+
+public class CustomerProducer {
+
+}
