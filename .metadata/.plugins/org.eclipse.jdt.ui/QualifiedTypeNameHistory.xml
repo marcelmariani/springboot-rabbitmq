@@ -4,4 +4,9 @@
     <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
     <fullyQualifiedTypeName name="lombok.Data"/>
     <fullyQualifiedTypeName name="lombok.Setter"/>
+    <fullyQualifiedTypeName name="com.marcelmariani.service.CustomerService"/>
+    <fullyQualifiedTypeName name="lombok.Value"/>
+    <fullyQualifiedTypeName name="org.slf4j.Logger"/>
+    <fullyQualifiedTypeName name="com.marcelmariani.entity.Customer"/>
+    <fullyQualifiedTypeName name="com.marcelmariani.config.CustomerConfig"/>
 </qualifiedTypeNameHistroy>

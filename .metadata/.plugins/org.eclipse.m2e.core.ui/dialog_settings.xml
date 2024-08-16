@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\java-springboot\springboot-rabbitmq\springboot-rabbitmq-producer"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
