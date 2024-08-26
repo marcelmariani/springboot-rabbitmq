@@ -9,4 +9,5 @@
     <fullyQualifiedTypeName name="org.slf4j.Logger"/>
     <fullyQualifiedTypeName name="com.marcelmariani.entity.Customer"/>
     <fullyQualifiedTypeName name="com.marcelmariani.config.CustomerConfig"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
 </qualifiedTypeNameHistroy>
